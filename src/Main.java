@@ -23,5 +23,6 @@ public class Main {
         float krysYDif = (krysNewSal * monInY) - (krys * monInY);
             System.out.println("Денис теперь получает " + krysNewSal + " рублей. Годовой доход вырос на " + krysYDif + " рублей.");
 
+            // task 8 complete
     }
 }
